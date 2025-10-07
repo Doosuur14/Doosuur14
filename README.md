@@ -29,14 +29,12 @@
 
 ###
 
-<p align="left">I'm Faki Doosuur Doris<br>Welcome to my GitHub! I'm an iOS Developer with a strong foundation in both mobile and backend development, currently based in Russia 🇷🇺 and originally from Nigeria 🇳🇬.<br><br>🚀 About Me<br>🎓 3rd-year Software Engineering student at Kazan Federal University.<br><br>💻 I build iOS apps using Swift, UIKit, MVVM, and integrate tools like Firebase, SnapKit, and MapKit.<br><br>🌍 I'm passionate about creating apps that solve real-world problems, especially those that help international students and underserved communities.<br><br>🧠 Currently exploring: SwiftUI, Go, and Dockerized backend systems.</p>
+<p align="left">I'm Faki Doosuur Doris<br>Welcome to my GitHub! I'm an iOS Developer with a strong foundation in both mobile and backend development, currently based in Russia 🇷🇺 and originally from Nigeria 🇳🇬.<br><br>🚀 About Me<br>🎓 4th-year Software Engineering student at Kazan Federal University.<br><br>💻 I build iOS apps using Swift, UIKit, MVVM, and integrate tools like Firebase, SnapKit, and MapKit.<br><br>🌍 I'm passionate about creating apps that solve real world problems.I believe technology can bridge gaps between people and safety one app at a time.<br><br>🧠 Currently exploring: SwiftUI, Go, and Dockerized backend systems.</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
+<!-- ### -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />&nbsp;&nbsp;
@@ -48,8 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
-
-
-###
+<!-- ### -->
 
 
